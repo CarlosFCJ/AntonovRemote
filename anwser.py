@@ -4,7 +4,9 @@ Created on Wed Mar 25 09:17:07 2020
 
 @author: CarlosC
 """
-c = 20
+c = 323
+# nota la c sale de usar el peso de la nave buscado en internet, sacado su 95 % y restado el peso de la nave
+# cuando se encuentra vacia
 while c!=0:
     kg=int(input("Ingrese el peso en kilogramos del paquete que desea enviar :"))
     km=int(input("ingrese la distancia en kilometos a la cual se dirije el paquete :"))
